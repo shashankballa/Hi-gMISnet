@@ -3,3 +3,16 @@
 
 # Python
 __pycache__/
+pyenv/
+
+# Kaggle
+.kaggle/
+
+# Datasets
+datasets/
+
+# Training data
+training_data/
+
+# Testing
+test-tf-gpu.py
